@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tQ7jNgFkwUedfc6oQ2ch9g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://docs.google.com/spreadsheets/d/1yeJ22tPyLse0srlf5pWaSWG6BcjP8nDlkCtJ31KFYc8/edit#gid=0" DesignTimeRectangle="9, 414, 58, 30" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='80' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='goog-inline-block fixed4-inner-container' tag='DIV' aaname='' /&gt;" Guid="fd6c2a68-f3ed-4077-b64c-e77d1d7798da" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAD4AAAAiCAYAAAAH1WqkAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACDSURBVGhD7dmxDYAgEEZh53BNF6TQ3ACOYMMIamIQSKDxYn/HI3kdf/HRMuWTSqMd4CGEoerw87rdJSKf9uOpAdeG1gMOHDhwdWg94MCBA1eH1gMOHDhwdWg94MCBA1eH1gP+B9cueQw4cOWSx4A3uPaj6LFVtlqHt5fwXAHPS8zF9AIkkyGsdc/M/AAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='BASE - Planilhas Google' /&gt;" SearchSteps="FuzzySelector" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8f461e3d97f61b16efafea336df6acb7.png" xmlns="">0EixRkkJbZ0WbC6EFBU1_uA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

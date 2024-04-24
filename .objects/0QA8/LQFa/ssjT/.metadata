@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: BASE - Planilhas Google",
+  "Type": "Screen",
+  "Id": "ssjTtPLi-EitL4PhIUvf5g",
+  "Reference": "67lRI4GZNkm8n6XaCWcBlQ/ssjTtPLi-EitL4PhIUvf5g",
+  "ParentRef": "67lRI4GZNkm8n6XaCWcBlQ/LQFa796On0KvdFEnZ9sYPQ",
+  "Created": "2024-04-23T20:35:48.7102655Z",
+  "Updated": "2024-04-23T20:35:48.7102655Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

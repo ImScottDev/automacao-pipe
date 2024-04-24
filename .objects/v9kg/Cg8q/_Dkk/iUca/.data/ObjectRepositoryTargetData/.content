@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kJy-Eu3w8Eym8ldrKsUxDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://docs.google.com/spreadsheets/d/1yeJ22tPyLse0srlf5pWaSWG6BcjP8nDlkCtJ31KFYc8/edit#gid=0" CvTextArea="166, 285, 50, 17" CvType="AnyWordGroup" DesignTimeRectangle="158, 280, 68, 29" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Editar' aria-role='menuitem' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='menuitem' tag='DIV' type='' class='menu-button goog-control goog-inline-block' /&gt;" Guid="29485690-2df5-4d78-81de-440c4e06ec20" ScopeSelectorArgument="&lt;html app='chrome.exe' title='BASE - Planilhas Google' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b88bb8b26ee03fec6c881bf7e5571213.png" xmlns="">00VDo-iSecEKnGHKTCil4bg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

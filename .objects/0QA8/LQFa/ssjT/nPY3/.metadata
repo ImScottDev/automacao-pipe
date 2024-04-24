@@ -1,0 +1,13 @@
+﻿{
+  "Name": "DIV (1)",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "nPY3CW0WCkyl7xudc2RJYA",
+  "Reference": "67lRI4GZNkm8n6XaCWcBlQ/nPY3CW0WCkyl7xudc2RJYA",
+  "ParentRef": "67lRI4GZNkm8n6XaCWcBlQ/ssjTtPLi-EitL4PhIUvf5g",
+  "Created": "2024-04-23T20:35:48.798511Z",
+  "Updated": "2024-04-23T20:35:48.798511Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

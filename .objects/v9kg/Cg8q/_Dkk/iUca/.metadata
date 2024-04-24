@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Editar",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "iUcaT8_bFkuDRbq-JEeUXQ",
+  "Reference": "67lRI4GZNkm8n6XaCWcBlQ/iUcaT8_bFkuDRbq-JEeUXQ",
+  "ParentRef": "67lRI4GZNkm8n6XaCWcBlQ/_DkkCzrAMkaaI0xhmws-SQ",
+  "Created": "2024-04-23T20:29:13.0787647Z",
+  "Updated": "2024-04-23T20:29:13.0787647Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
